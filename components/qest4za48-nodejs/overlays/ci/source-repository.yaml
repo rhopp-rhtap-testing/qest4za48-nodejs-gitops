@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qest4za48-nodejs-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/qest4za48-nodejs
